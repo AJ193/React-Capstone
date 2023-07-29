@@ -140,7 +140,7 @@ Example:
 ```
  -->
 
-# <a name="authors">Ndonyi Maurice</a>
+# <a name="authors"></a>
 
 👤 **Ghulam Shabbir**
 
