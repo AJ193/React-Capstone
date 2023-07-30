@@ -12,23 +12,23 @@ Array [
       <img
         alt="Back Icon"
         className="back-im"
-        src="bac.png"
+        src="back.png"
       />
     </a>
     <h1>
-      Countries
+      COUNTRIES
     </h1>
     <div
       className="right-icon"
     >
       <img
         alt="Microphone icon"
-        src="micro.png"
+        src="microphone.png"
       />
       <img
         alt="Setting icon"
         className="set-img"
-        src="set.png"
+        src="setting.png"
       />
     </div>
   </div>,
@@ -38,7 +38,7 @@ Array [
     <img
       alt="World Map"
       className="world-img"
-      src="ban-img.jpg"
+      src="Background-img.jpg"
     />
   </div>,
   <input
@@ -54,7 +54,7 @@ Array [
     <h2
       className="country-status"
     >
-      Stats by Country
+      Detail of Countries
     </h2>
   </div>,
   <div

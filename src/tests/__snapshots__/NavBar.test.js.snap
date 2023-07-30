@@ -11,23 +11,23 @@ exports[`NavBar Should renders correctly 1`] = `
     <img
       alt="Back Icon"
       className="back-im"
-      src="bac.png"
+      src="back.png"
     />
   </a>
   <h1>
-    Countries
+    COUNTRIES
   </h1>
   <div
     className="right-icon"
   >
     <img
       alt="Microphone icon"
-      src="micro.png"
+      src="microphone.png"
     />
     <img
       alt="Setting icon"
       className="set-img"
-      src="set.png"
+      src="setting.png"
     />
   </div>
 </div>
