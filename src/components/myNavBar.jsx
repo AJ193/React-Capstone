@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom';
-import back from './image/bac.png';
-import microphone from './image/micro.png';
-import setting from './image/set.png';
+import back from './image/back.png';
+import microphone from './image/microphone.png';
+import setting from './image/setting.png';
 
 const NavBar = () => (
   <div className="top-header">

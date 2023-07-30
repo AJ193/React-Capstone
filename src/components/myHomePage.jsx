@@ -4,7 +4,7 @@ import { useState } from 'react';
 import NavBar from './myNavBar';
 import './myStyle/Style.css';
 import countryMap from './image/backround.png';
-import bannarImage from './image/ban-img.jpg';
+import bannarImage from './image/Background-img.jpg';
 
 const Homepage = () => {
   const { myCountryData } = useSelector((store) => store.country);
