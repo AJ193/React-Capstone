@@ -1,25 +1,4 @@
 <div align="center"><h1>REACT CAPSTONE</h1></div>
-<!-- 
-HOW TO USE::
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-- Authors
-- Future Features- 
- - Mobile version design
-- Desktop version design
-- Dynamic HTML for featured-speakers
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
