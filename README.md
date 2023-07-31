@@ -148,10 +148,10 @@ Feel free to check the [issues page](https://github.com/AJ193/React-Capstone/iss
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> I would like to thanks and give appropriate credit to [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) the [author of the original design](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)), for the design inspiration as required by the [Creative Commons License](https://creativecommons.org/licenses/)
+> I would like to thank and give appropriate credit to [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) the [author of the original design](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)), for the design inspiration as required by the [Creative Commons License](https://creativecommons.org/licenses/)
 
 
->I would like to thanks and give appropriate Microverse for this huge opportunity  [My Loom Video](https://www.loom.com/share/83cc2c3dfbd8461ea5a8842fce7b8f18?sid=6a66a463-ff86-482b-b0f9-0dce49e65557)
+>I would like to thank and give appropriate Microverse for this huge opportunity  [My Loom Video](https://www.loom.com/share/bd411d0096ce42bd88a736d6600a6261?sid=e1171783-2851-4d06-9131-97ed4de35473)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
